@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+PyJHora @ git+https://github.com/naturalstupid/pyjhora.git
